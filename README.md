@@ -29,8 +29,8 @@ Code-along Challenge with Bedimcode for a portfolio website
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/sedaryildirim/responsive-portfolio-project)
-- Live Site URL: [Github Pages](https://sedaryildirim.github.io/responsive-portfolio-project/)
+- Solution URL: [Github Repo](https://github.com/sedaryildirim/responsive-PT-project)
+- Live Site URL: [Github Pages](https://sedaryildirim.github.io/responsive-PT-project/)
 
 ## My process
 
@@ -45,22 +45,13 @@ Code-along Challenge with Bedimcode for a portfolio website
 
 ### What I learned
 
-- learned how to use emmet correctly with class chaining
-- fixed several errors with troubleshooting for display issues
-- better understanding of developer tools whilst searching for bugs
-- learned more css shorthand
-- better understanding of bem naming structure
-
 ### Continued development
-
-~~One bug left to fix - dark mode BG color on services tab via 'view more'~~
-edit: fixed
 
 ### Useful resources
 
-- [Bedimcode](https://www.youtube.com/c/Bedimcode)
 - [Iconscout](https://iconscout.com/unicons)
 - [Swiper](https://swiperjs.com/)
+- [Scroll Reveal](https://scrollrevealjs.org/)
 
 ## Author
 

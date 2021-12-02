@@ -202,3 +202,18 @@ sr.reveal('.home__social, .about', {delay: 600})
 sr.reveal('.home__img, .home__scroll, .about__data, .services__container', {origin: 'right'})
 sr.reveal('.about__img, .qualification, .project', {origin: 'left'})
 sr.reveal('.services, .testimonial, .contact', {delay: 500})
+
+/*==================== TEXT CHANGE ====================*/ 
+let text = ["Fitness", "Positivity", "Mental Health"];
+let counter = 0;
+let elem = document.getElementById("changeText");
+let inst = setInterval(change, 2500);
+
+function change() {
+  elem.innerHTML = text[counter];
+  counter++;
+  if (counter >= text.length) {
+    counter = 0;
+    // clearInterval(inst); // uncomment this if you want to stop refreshing after one cycle
+  }
+}

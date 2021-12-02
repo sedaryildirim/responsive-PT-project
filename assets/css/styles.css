@@ -349,6 +349,10 @@ img {
     font-size: 1.25.rem;
 }
 
+#changeText {
+    border-bottom: 5px solid var(--first-color);
+}
+
 /*==================== BUTTONS ====================*/
 .button {
     display: inline-block;
@@ -1186,6 +1190,7 @@ img {
 
     .about__container {
         column-gap: 5rem;
+        align-items: center;
     }
 
     .about__img {
